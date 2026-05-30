@@ -64,18 +64,7 @@ python server.py 9999
 python client.py localhost 9999
 ```
 
-## Repository Structure
-
-```text
-client-server-file-management/
-│
-├── client.py
-├── server.py
-├── README.md
-└── .gitignore
-```
-
-## Future Improvements
+## Future Work
 
 - Add authentication
 - Restrict file access to a safe server root directory
